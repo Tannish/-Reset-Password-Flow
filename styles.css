@@ -134,7 +134,7 @@
 }
 
 
-@media only screen and (max-width:600px) {
+@media only screen and (max-width:640px) {
   .Bigcontainer{
       width: 100vw;
       margin: 0 auto;
@@ -156,7 +156,7 @@
 
    .Smallcontainer{
           width: 90vw;
-          height: 40vh;
+          height: 60vh;
           margin: 0 auto;
           margin-top: 5vh;
           padding: 10px;
@@ -178,7 +178,7 @@
     }
 
     .form label{
-        font-size: 0.8rem;
+        font-size: 0.6rem;
         font-weight: bold;
         margin-bottom: 5px;
         text-align: left;
@@ -252,7 +252,7 @@
 
 }
 
-@media screen and (min-width: 600px) and (max-width: 900px){
+@media screen and (min-width: 641px) and (max-width: 1007px){
     .Bigcontainer{
         width: 100vw;
         margin: 0 auto;
@@ -269,8 +269,8 @@
     }
 
     .Smallcontainer{
-        width: 90vw;
-        height: 40vh;
+        width: 100vw;
+        height: 50vh;
         margin: 0 auto;
         margin-top: 5vh;
         padding: 10px;
@@ -379,10 +379,7 @@
 
 }
 
-
-/* extra large screens */
-
-@media screen and (min-width: 900px){
+@media screen and (min-width: 1008px){
     .Bigcontainer{
         width: 100vw;
         margin: 0 auto;
@@ -399,7 +396,7 @@
     }
 
     .Smallcontainer{
-        width: 80vw;
+        width: 30vw;
         height: 50vh;
         margin: 0 auto;
         margin-top: 5vh;
